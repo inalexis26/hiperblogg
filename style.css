@@ -32,3 +32,10 @@ body {
     color: white;
     padding: 2rem;
 }
+
+.logo {
+    display: flex;
+    width: 3rem;
+    height: auto;
+    flex-wrap: initial;
+}
